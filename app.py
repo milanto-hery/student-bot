@@ -35,17 +35,17 @@ if language == "English":
     title_text = "📚 Student Assistant Bot"
     description_text = "Ask questions about Physics, Maths, and Natural Science!"
     input_placeholder = "Type your question here..."
-    footer_text = "Created by [Your Name] | Streamlit + OpenAI API"
+    footer_text = "Created by [Milanto] | + OpenAI API"
 elif language == "French":
     title_text = "📚 Assistant Étudiant"
     description_text = "Posez des questions sur la Physique, les Maths et les Sciences Naturelles !"
     input_placeholder = "Tapez votre question ici..."
-    footer_text = "Créé par [Votre Nom] | Streamlit + OpenAI API"
+    footer_text = "Créé par [Milanto] | + OpenAI API"
 else:  # Malagasy
     title_text = "📚 Mpanampy Mpianatra"
     description_text = "Manontania momba ny Fisika, Matematika, ary Siansa voajanahary!"
     input_placeholder = "Soraty eto ny fanontanianao..."
-    footer_text = "Noforonin'i [Anaranao] | Streamlit + OpenAI API"
+    footer_text = "Noforonin'i [Milanto] | + OpenAI API"
 
 # ----------------------------
 # Page Title
