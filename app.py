@@ -43,7 +43,7 @@ elif language == "French":
     footer_text = "Créé par Milanto | + OpenAI API"
 else:  # Malagasy
     title_text = "📚 Mpanampy Mpianatra"
-    description_text = "Manontania momba ny Fisika, Matematika, ary Siansa voajanahary!"
+    description_text = "Manontania momba ny Fizika, Matematika, ary ny Siansa!"
     input_placeholder = "Soraty eto ny fanontanianao..."
     footer_text = "Noforonin'i Milanto | + OpenAI API"
 
